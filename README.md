@@ -1,8 +1,8 @@
-# RepoName
+# CCProxy
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/CCProxy
 ```
 
